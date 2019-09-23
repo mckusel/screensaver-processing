@@ -1,14 +1,14 @@
-# screensaver-processing
+# Generative Drawing Tool: Processing
 
 ## Installing Processing
 
-If you do not already have processing, click [here](https://processing.org/download/) to install it.
+If you do not already have processing, click [here](https://processing.org/download/) to install it. Also please be sure to install QueasyCam, which can be done in Processing or [here](https://github.com/jrc03c/queasycam).
 
 ## About the Project
 
 This project was created as my final for a course called Form & Code taught in the Art Studio & IDEAS (Integrated Design, Engineering & Applied Science) Department. I took this course in Spring of 2019, and it was taught by Christopher Chenier. 
 
-The inspiration for this project began while completing a midterm project in which we used Rhinoceros and Grasshopper to make parametric objects. For this project, I used sine and cosine curves layered on top of each other to create intricate flowers. During the critique for this project, many expressed wanting to see this project in 3D. So, I went back to Processing and using a 3D FPS camera library QueasyCam, I made that a reality. As the project went on, I chose a color scheme that reminded me of the hypnotic desktop screensavers of my youth.
+The inspiration for this project began while completing a midterm project in which we used Rhinoceros and Grasshopper to make parametric objects. For this project, I used sine and cosine curves layered on top of each other to create intricate flowers. During the critique for this project, many expressed wanting to see this project in 3D. So, I went back to Processing and using a 3D FPS camera library QueasyCam, I made that a reality. I created a drawing tool that uses sine and cosine equations to generate the spiral like shapes where the mouse is pointed. As the project went on, I chose a color scheme that reminded me of the hypnotic desktop screensavers of my youth.
 
 ## Stills from the project
 
